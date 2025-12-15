@@ -1,0 +1,13 @@
+{
+  "name": "multi-game-server",
+  "version": "1.0.0",
+  "description": "Master controller for 8-in-1 web game platform.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
